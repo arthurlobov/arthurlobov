@@ -1,5 +1,5 @@
 - 👋 Oi, me chamo Arthur Lobo Vieira
-- 👀 Tenho interesse em linguagem Java e c++
+- 👀 Tenho interesse em linguagem Phytom e SQL
 - 🌱 Atualmente estou aprendendo phyton e Java
 - 💞️ Estou buscando projetos de aprendizado, nada remunarado, apenas experiência
 
