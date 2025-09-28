@@ -1,8 +1,8 @@
-# 👩🏻‍💻 Larissa Kich
+# Arthur Lôbo
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor BackEnd`**
 
-Me chamo Larissa Vitória Kich, tenho 20 anos e sou natural do Rio Grande do Sul. Concluí o ensino médio no IFRS, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na PUCRS. Sou apaixonada por tecnologia e compartilho meu conhecimento através do meu canal no YouTube "[Larissa Kich](https://www.youtube.com/@larissakich)", onde ensino a criar projetos web, e também através do Instagram, com o perfil chamado "[Dev em Dev](https://www.instagram.com/dev_em_dev/)".
+Desenvolvedor de software com foco em Back-end. Cursando Bacharelado em Ciência da Computação pela UNIFOR (1º de 8 semestres), apaixonado por programação e pelo desenvolvimento de ideias e projetos. Estou em constante busca por aprimoramento, mantendo uma postura proativa diante de desafios. Atualmente também estudando HTML, CSS e Java Script.
 
 <p align="left">
     <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
