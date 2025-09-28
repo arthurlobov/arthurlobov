@@ -2,7 +2,7 @@
 
 **`Desenvolvedor BackEnd`**
 
-Olá! Me chamo Arthur Lôbo, estou graduando em Ciência da Computação, sou apaixonado por tecnologia e pelo desenvolvimento de soluções criativas para resolução de problemas.
+Olá! Me chamo Arthur Lôbo, sou desenvolvedor de software com foco em Back-end, cursando Bacharelado em Ciência da Computação pela UNIFOR (1º de 8 semestres). Apaixonado por tecnologia, programação e pelo desenvolvimento de soluções criativas, busco constantemente aprimorar minhas habilidades para transformar ideias em projetos reais.
 
 ---
 
