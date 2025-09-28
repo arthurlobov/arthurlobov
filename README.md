@@ -54,7 +54,7 @@ Desenvolvedor de software com foco em Back-end. Cursando Bacharelado em Ciência
     title="SQL"
     width="30px" 
     style="padding-right: 10px;" 
-    src="(https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aarch64/aarch64-original.svg]"          
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aarch64/aarch64-original.svg"          
 />
 
 <br/>
