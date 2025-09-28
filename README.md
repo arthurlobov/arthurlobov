@@ -23,7 +23,7 @@ Desenvolvedor de software com foco em Back-end. Cursando Bacharelado em Ciência
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Habilidades
 
 <img 
     align="left" 
