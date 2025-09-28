@@ -5,12 +5,6 @@
 Desenvolvedor de software com foco em Back-end. Cursando Bacharelado em Ciência da Computação pela UNIFOR (1º de 8 semestres), apaixonado por programação e pelo desenvolvimento de ideias e projetos. Estou em constante busca por aprimoramento, mantendo uma postura proativa diante de desafios. Atualmente também estudando HTML, CSS e Java Script.
 
 <p align="left">
-    <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
-        <img 
-            alt="youtube subscribers" 
-            title="Inscreva-se no meu canal" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
-        />
     </a>
     <a href="https://www.youtube.com/@larissakich">
         <img 
