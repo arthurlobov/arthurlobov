@@ -2,7 +2,7 @@
 
 **`Desenvolvedor BackEnd`**
 
-Desenvolvedor de software com foco em Back-end. Cursando Bacharelado em Ciência da Computação pela UNIFOR (1º de 8 semestres), apaixonado por programação e pelo desenvolvimento de ideias e projetos. Estou em constante busca por aprimoramento, mantendo uma postura proativa diante de desafios. Atualmente também estudando HTML, CSS e Java Script.
+Olá! Me chamo Arthur Lôbo, estou graduando em Ciência da Computação, sou apaixonado por tecnologia e pelo desenvolvimento de soluções criativas para resolução de problemas.
 
 ---
 
