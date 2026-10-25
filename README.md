@@ -10,14 +10,6 @@ Olá! Me chamo Arthur Lôbo, sou desenvolvedor de software com foco em Back-end,
 
 <img 
     align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)" 
-/>
-<img 
-    align="left" 
     alt="CSS" 
     title="CSS"
     width="30px" 
